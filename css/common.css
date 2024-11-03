@@ -38,3 +38,10 @@ button {
   display: block;
   max-width: 100%;
 }
+
+#boxes{
+  padding: 20px 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
